@@ -46,7 +46,7 @@ telegram-location-bot/
    ```bash
    git clone https://github.com/tu_usuario/telegram-location-bot.git
    cd telegram-location-bot
-````
+``
 
 2. Instala dependencias:
 
@@ -84,18 +84,6 @@ telegram-location-bot/
 * [python-telegram-bot](https://docs.python-telegram-bot.org/)
 * JSON para almacenamiento local
 
----
 
-## 📄 Licencia
-
-Este proyecto se distribuye bajo la licencia MIT.
-Creado con ❤️ por Sebas.
-
-```
-
----
-
-¿Querés que el README tenga también una **imagen del flujo o diagrama simple** (para subirla al repo)? Te puedo generar una versión visual tipo esquema del proceso del bot.
-```
 
 
