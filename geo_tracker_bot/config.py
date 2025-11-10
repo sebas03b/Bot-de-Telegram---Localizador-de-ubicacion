@@ -1,0 +1,2 @@
+TELEGRAM_TOKEN = "8472865905:AAEJlbQ1aOWQMkV8zhyZTgnYXiZinvrLB34"
+DATA_PATH = "data/locations.json"
